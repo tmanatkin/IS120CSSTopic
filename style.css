@@ -10,6 +10,7 @@ main {
 
 article {
   max-width: 60%;
+  margin-bottom: 100px;
 }
 
 img {
